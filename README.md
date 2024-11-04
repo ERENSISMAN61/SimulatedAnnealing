@@ -18,12 +18,12 @@ Bu proje, Simulated Annealing algoritmasını kullanarak bir fonksiyonun minimum
 ### Hedef Fonksiyon Grafiği
 Bu grafikte, hedef fonksiyon ve Simulated Annealing algoritmasının başlangıç noktası ve ulaşılan minimum noktası gösterilmektedir. Algoritma, başlangıç noktasından (yeşil) başlayarak minimum noktaya (kırmızı) doğru ilerlemektedir.
 
-![Hedef Fonksiyon Grafiği](![Screenshot 2024-11-04 185138](https://github.com/user-attachments/assets/7ba48a39-dd6f-415f-97b6-b0add39c083c))
+![Hedef Fonksiyon Grafiği](https://github.com/user-attachments/assets/7ba48a39-dd6f-415f-97b6-b0add39c083c)
 
 ### Simulated Annealing Kullanıcı Arayüzü
 Bu arayüz, kullanıcının fonksiyon parametrelerini girebileceği bir form sunar ve sonuçları iterasyonlar boyunca günceller. Minimum nokta ve minimum değer her iterasyon sonunda güncellenir.
 
-![Simulated Annealing Arayüzü](![Screenshot 2024-11-04 185157](https://github.com/user-attachments/assets/c8e6d6ec-b549-4902-9df3-ba6ae3a746d8))
+![Simulated Annealing Arayüzü](https://github.com/user-attachments/assets/c8e6d6ec-b549-4902-9df3-ba6ae3a746d8)
 
 ## Gereksinimler
 
